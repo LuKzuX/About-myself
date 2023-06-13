@@ -1,4 +1,4 @@
-Hello, my name is Lucas and I started my journey in programming after leaving high school. 
+Hello, my name is Lucas and I started my journey in programming after finishing high school. 
 
 I never really liked this area but I delved deeper and ended up being interested. 
 
