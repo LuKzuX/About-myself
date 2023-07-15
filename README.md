@@ -4,7 +4,13 @@ I never really liked this area but I delved deeper and ended up being interested
 
 I am self-taught, currently studying to become a fullstack programmer. 
 
-I really want to have a job in the area and i have experience with web development.
+I really want to have a job in the area and i have experience with:
+- Javascript
+- Node.js
+- Express
+- React
+- MongoDB
+  
 
 
 
