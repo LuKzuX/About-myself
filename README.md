@@ -11,7 +11,7 @@ I really want to have a job in the area and i have experience with:
 - React
 - MongoDB
 - Sql
-- Learning Python
+- Python
 
 
 
